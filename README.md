@@ -18,7 +18,7 @@ This is my personal portfolio website created using **HTML** and **CSS**.
 
 - HTML5
 - CSS3
-- Hosted on Netlify & GitHub
+- Hosted on Netlify
 
 ---
 
